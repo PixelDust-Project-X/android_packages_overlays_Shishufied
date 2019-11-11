@@ -4,3 +4,9 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
 	Shishufied
+
+# Theme-Required overlays packages
+PRODUCT_PACKAGES += \
+    ShishuThemeAndroidOverlay \
+    ShishuThemeSettingsOverlay \
+    ShishuThemeSystemUIOverlay
